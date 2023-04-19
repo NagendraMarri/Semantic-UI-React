@@ -1100,13 +1100,13 @@
   dependencies:
     "@babel/runtime" "^7.10.4"
 
-"@fluentui/react-component-ref@~0.63.0":
-  version "0.63.0"
-  resolved "https://registry.yarnpkg.com/@fluentui/react-component-ref/-/react-component-ref-0.63.0.tgz#8973552cdeb63363c396ca8bdefdf4ae061687c4"
-  integrity sha512-s4Wawk3Jp/cLRu3QlCtRMm1jYMi8fq7PLd6I2VYb397NgpLdMbO4/edqDHbDhKiVWRIulrOqWlRLR5YXjkXQ7A==
+"@fluentui/react-component-ref@~0.66.4":
+  version "0.66.4"
+  resolved "https://registry.yarnpkg.com/@fluentui/react-component-ref/-/react-component-ref-0.66.4.tgz#854720b0dc448e759414ab194973953174748c86"
+  integrity sha512-5PG6hiHa3skCGMaCX9AVOuFQUAeUwRnCvm5oAQPNVCemC8TIMcoBl1goMTPiATfQSWrYkhczLwrluPZvcCO01A==
   dependencies:
     "@babel/runtime" "^7.10.4"
-    react-is "^16.6.3"
+    react-is "^17.0.2"
 
 "@hapi/address@^4.1.0":
   version "4.1.0"
@@ -12937,7 +12937,7 @@ react-intersection-observer@^8.26.2:
   dependencies:
     tiny-invariant "^1.1.0"
 
-react-is@^16.12.0, react-is@^16.13.1, react-is@^16.6.0, react-is@^16.6.3, react-is@^16.7.0, react-is@^16.8.1, react-is@^17.0.0, react-is@^17.0.1:
+react-is@^16.12.0, react-is@^16.13.1, react-is@^16.6.0, react-is@^16.6.3, react-is@^16.7.0, react-is@^16.8.1, react-is@^17.0.0, react-is@^17.0.1, react-is@^17.0.2:
   version "17.0.1"
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-17.0.1.tgz#5b3531bd76a645a4c9fb6e693ed36419e3301339"
   integrity sha512-NAnt2iGDXohE5LI7uBnLnqvLQMtzhkiAOLXTmv+qnF9Ky7xAPcX8Up/xWIhxvLVGJvuLiNc4xQLtuqDRzb4fSA==

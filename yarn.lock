@@ -1093,10 +1093,10 @@
     debug "^3.1.0"
     lodash.once "^4.1.1"
 
-"@fluentui/react-component-event-listener@~0.63.0":
-  version "0.63.0"
-  resolved "https://registry.yarnpkg.com/@fluentui/react-component-event-listener/-/react-component-event-listener-0.63.0.tgz#d595890f39a97939e20624778325a60196b2bbe4"
-  integrity sha512-3OfmzM4rXf8yeB1GaDBKcdkO0UQN8rafygsp9CeC1x85gO6uv/TgnjC3co6kcxZ8GtVqU1YyH5SjJQgNOmKvXw==
+"@fluentui/react-component-event-listener@~0.66.4":
+  version "0.66.4"
+  resolved "https://registry.yarnpkg.com/@fluentui/react-component-event-listener/-/react-component-event-listener-0.66.4.tgz#ebce7c62be482cbc6d687fe31d6b2ca42c8d85d7"
+  integrity sha512-AS6tB0PiAR4kSqSRIHSy9SqzP/IE6t/DNk58410RpPg5chZ5WK2L1eoG+bv46AnESEJ//7Ifmb+gzd91VczxDg==
   dependencies:
     "@babel/runtime" "^7.10.4"
 
